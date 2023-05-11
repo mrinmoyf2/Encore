@@ -313,9 +313,7 @@ body {
 	margin-left: 100px;
 	margin-bottom: 10px;
 }
-.project-head{
-	margin: 0 0 0 700px;
-}
+
 
 /* project */
 
@@ -323,7 +321,7 @@ body {
 	text-align: center;
 	padding: 20px;
 	font-family: 'Roboto', 'Helvetica', Arial, sans-serif;
-	height: 1000px;
+	height: 600px;
   }
   
   .projects h2 {
